@@ -36,4 +36,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 fr.app.chat.global.xiaomi.net
 0.0.0.0 spotify-v5.ws.sonos.com
 0.0.0.0 d1nruqhae353qc.cloudfront.net
-
+0.0.0.0 fonts.googleapis.com
