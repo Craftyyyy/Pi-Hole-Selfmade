@@ -1,0 +1,39 @@
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+0.0.0.0 www.14juni.ch
+0.0.0.0 14juni.ch
+0.0.0.0 notifications-pa.googleapis.com
+0.0.0.0 googlehosted.l.googleusercontent.com
+0.0.0.0 events.gfe.nvidia.com
+0.0.0.0 gfwsl.geforce.com
+0.0.0.0 ctldl.windowsupdate.com	
+0.0.0.0 graph.oculus.com
+0.0.0.0 aka.ms
+0.0.0.0 cp601.prod.do.dsp.mp.microsoft.com
+0.0.0.0 kv601.prod.do.dsp.mp.microsoft.com
+0.0.0.0 go.microsoft.com
+0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
+0.0.0.0 officecdn.microsoft.com
+0.0.0.0 catalog.gamepass.com
+0.0.0.0 api1.origin.com
+0.0.0.0 contile.services.mozilla.com
+0.0.0.0 x1.c.lencr.org
+0.0.0.0 connect.intl.rom.miui.com	
+0.0.0.0 fr.app.chat.global.xiaomi.net
+0.0.0.0 spotify-v5.ws.sonos.com
+0.0.0.0 d1nruqhae353qc.cloudfront.net
+
