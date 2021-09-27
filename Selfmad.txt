@@ -32,7 +32,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 api1.origin.com
 0.0.0.0 contile.services.mozilla.com
 0.0.0.0 x1.c.lencr.org
-0.0.0.0 connect.intl.rom.miui.com	
 0.0.0.0 fr.app.chat.global.xiaomi.net
 0.0.0.0 spotify-v5.ws.sonos.com
 0.0.0.0 d1nruqhae353qc.cloudfront.net
