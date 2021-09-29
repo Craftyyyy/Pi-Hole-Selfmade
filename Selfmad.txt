@@ -14,32 +14,52 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-0.0.0.0 www.14juni.ch
-0.0.0.0 14juni.ch
+# Google
 0.0.0.0 notifications-pa.googleapis.com
 0.0.0.0 googlehosted.l.googleusercontent.com
+0.0.0.0 fonts.googleapis.com
+0.0.0.0 ocsp.pki.goog
+0.0.0.0 i.ytimg.com
+
+# Nvidia
 0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 gfwsl.geforce.com
+0.0.0.0 services.gfe.nvidia.com
+0.0.0.0 connectivitycheck.gstatic.com
+0.0.0.0 services.gfe.nvidia.com
+
+#Amazone
+0.0.0.0 d1nruqhae353qc.cloudfront.net
+
+# Microsoft
 0.0.0.0 ctldl.windowsupdate.com	
-0.0.0.0 graph.oculus.com
 0.0.0.0 aka.ms
 0.0.0.0 cp601.prod.do.dsp.mp.microsoft.com
 0.0.0.0 kv601.prod.do.dsp.mp.microsoft.com
 0.0.0.0 go.microsoft.com
 0.0.0.0 geo.prod.do.dsp.mp.microsoft.com
 0.0.0.0 officecdn.microsoft.com
+0.0.0.0 checkappexec.microsoft.com
+0.0.0.0 fe3cr.delivery.mp.microsoft.com
+
+# Facebook
+0.0.0.0 graph.oculus.com
+
+# Spotify
+0.0.0.0 spotify-v5.ws.sonos.com
+
+# Xiaomi
+0.0.0.0 fr.app.chat.global.xiaomi.net
+
+# Games
 0.0.0.0 catalog.gamepass.com
 0.0.0.0 api1.origin.com
+
+# Browser
 0.0.0.0 contile.services.mozilla.com
+
+# Website
 0.0.0.0 x1.c.lencr.org
-0.0.0.0 fr.app.chat.global.xiaomi.net
-0.0.0.0 spotify-v5.ws.sonos.com
-0.0.0.0 d1nruqhae353qc.cloudfront.net
-0.0.0.0 fonts.googleapis.com
-0.0.0.0 www.baidu.com
-0.0.0.0 connectivitycheck.gstatic.com
-0.0.0.0 checkappexec.microsoft.com
-0.0.0.0 fonts.googleapis.com
-0.0.0.0 i.ytimg.com
-0.0.0.0 ocsp.pki.goog
 0.0.0.0 r3.o.lencr.org
+0.0.0.0 www.baidu.com
+0.0.0.0 ocsp.digicert.com
