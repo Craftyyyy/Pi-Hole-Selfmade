@@ -37,9 +37,6 @@
 # Spotify
 0.0.0.0 spotify-v5.ws.sonos.com
 
-# Xiaomi
-0.0.0.0 fr.app.chat.global.xiaomi.net
-
 # Games
 0.0.0.0 catalog.gamepass.com
 0.0.0.0 api1.origin.com
