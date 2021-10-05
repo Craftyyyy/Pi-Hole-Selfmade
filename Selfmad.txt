@@ -14,7 +14,6 @@ i.ytimg.com
 events.gfe.nvidia.com
 gfwsl.geforce.com
 services.gfe.nvidia.com
-connectivitycheck.gstatic.com
 services.gfe.nvidia.com
 
 #Amazone
@@ -48,5 +47,4 @@ contile.services.mozilla.com
 # Website
 x1.c.lencr.org
 r3.o.lencr.org
-www.baidu.com
 ocsp.digicert.com
