@@ -21,6 +21,7 @@ services.gfe.nvidia.com
 d1nruqhae353qc.cloudfront.net
 
 # Microsoft
+am3pap007.storage.live.com
 ctldl.windowsupdate.com	
 aka.ms
 cp601.prod.do.dsp.mp.microsoft.com
