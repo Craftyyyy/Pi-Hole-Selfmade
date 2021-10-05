@@ -48,3 +48,32 @@ contile.services.mozilla.com
 x1.c.lencr.org
 r3.o.lencr.org
 ocsp.digicert.com
+s0.wp.com
+
+# Wordpress
+public-api.wordpress.com
+jetpack.wordpress.com
+simplywordpress.net
+
+
+# ??
+secure.gravatar.com
+1.gravatar.com
+
+cdn.thegeekpub.com
+
+pimylifeup.com
+
+d2qduf5jont2gk.cloudfront.net
+use.fontawesome.com.cdn.cloudflare.net
+
+ocsp.sca1b.amazontrust.com
+
+
+
+use.fontawesome.com
+
+ocsp.godaddy.com.akadns.net
+ocsp.godaddy.com
+
+mail.pimylifeup.com
