@@ -59,21 +59,3 @@ simplywordpress.net
 # ??
 secure.gravatar.com
 1.gravatar.com
-
-cdn.thegeekpub.com
-
-pimylifeup.com
-
-d2qduf5jont2gk.cloudfront.net
-use.fontawesome.com.cdn.cloudflare.net
-
-ocsp.sca1b.amazontrust.com
-
-
-
-use.fontawesome.com
-
-ocsp.godaddy.com.akadns.net
-ocsp.godaddy.com
-
-mail.pimylifeup.com
