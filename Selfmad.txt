@@ -6,7 +6,6 @@
 # Google
 notifications-pa.googleapis.com
 googlehosted.l.googleusercontent.com
-fonts.googleapis.com
 ocsp.pki.goog
 i.ytimg.com
 
