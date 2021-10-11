@@ -7,7 +7,6 @@
 notifications-pa.googleapis.com
 googlehosted.l.googleusercontent.com
 ocsp.pki.goog
-i.ytimg.com
 
 # Nvidia
 events.gfe.nvidia.com
